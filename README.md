@@ -96,4 +96,4 @@ Laptops ($1,110.56 AOV) and Chairs ($1,098.99 AOV) generate the highest per-orde
 ## Conclusion
 The Online Store Orders Data Analysis and Power BI Dashboard project successfully converted raw e-commerce transaction data into meaningful business insights and interactive visual reports. Through data cleaning, validation, exploratory analysis, and dashboard development, the project provided a clear understanding of sales performance, customer behaviour, marketing effectiveness, and order management trends.
 ## Screenshort
-<img width="1163" height="726" alt="Screenshot 2026-05-15 230643" src="https://github.com/user-attachments/assets/96aa878d-0b59-41cb-919c-6c1aeeb24798" />
+<img width="1163" height="726" alt="Online Store Orders Screenshot" src="https://github.com/user-attachments/assets/34d62f3b-ef56-447f-8a84-90991bd86e9e" />
