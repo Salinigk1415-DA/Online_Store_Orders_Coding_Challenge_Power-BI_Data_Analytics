@@ -97,3 +97,6 @@ Laptops ($1,110.56 AOV) and Chairs ($1,098.99 AOV) generate the highest per-orde
 The Online Store Orders Data Analysis and Power BI Dashboard project successfully converted raw e-commerce transaction data into meaningful business insights and interactive visual reports. Through data cleaning, validation, exploratory analysis, and dashboard development, the project provided a clear understanding of sales performance, customer behaviour, marketing effectiveness, and order management trends.
 ## Screenshort
 <img width="1163" height="726" alt="Online Store Orders Screenshot" src="https://github.com/user-attachments/assets/f14af9fe-3879-4977-b792-c0f3b601a306" />
+
+## Tags
+DataAnalytics # PowerBI #DataVisualization #DataAnalysis #EcommerceAnalytics #RetailAnalytics #PowerQuery #DataClean #AnalyticsDashboard #Reporting #Visualization
